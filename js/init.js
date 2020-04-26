@@ -1,4 +1,4 @@
-(function($) {
+(function($) { 
 
 	skel.init({
 		reset: 'full',
